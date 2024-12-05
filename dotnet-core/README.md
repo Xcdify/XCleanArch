@@ -1,1 +1,0 @@
-dotnet core clean arch
